@@ -1,0 +1,8 @@
+---
+buildName: "test5"
+links:
+  Git: "http://github.com/dotw/test5.git"
+  Job: "http://10.0.0.20:80/job/test5"
+environments:
+  Staging: "devopsns-staging"
+useLocalFlow: true
